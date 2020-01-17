@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustang Car Club of Colorado</title>
+    <link>https://mustangccofc.com/</link>
+    <description>Recent content on Mustang Car Club of Colorado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mustangccofc.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://mustangccofc.com/about/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mustangccofc.com/about/</guid>
+      <description>The Mustang Car Club of Colorado promotes the intrest of preservation, restoration, and recreational enjoyment of the Ford Mustang Automobile.
+We welcome ALL years of Mustangs!
+Club Motto  Friendship, Adventure, Style - A legacy continues.
+ General Information Club Application*
+ Click the join us. Fill out the applciation Print the completed form.   Please make checks payable to: Mustang Car Club of Colorado
+ Thank you and we look forward to hearing from you.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://mustangccofc.com/join/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mustangccofc.com/join/</guid>
+      <description>The Mustang Car Club of Colorado promotes the intrest of preservation, restoration, and recreational enjoyment of the Ford Mustang Automobile.
+We welcome ALL years of Mustangs!
+Club Motto  Friendship, Adventure, Style - A legacy continues.
+ General Information Club Application*
+ Click the join us. Fill out the applciation Print the completed form.   Please make checks payable to: Mustang Car Club of Colorado
+ Thank you and we look forward to hearing from you.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://mustangccofc.com/post/my-first-post/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mustangccofc.com/post/my-first-post/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
