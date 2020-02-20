@@ -1,0 +1,84 @@
+################## Hero area ##################
+heroArea:
+  enable : true
+  bgImage : "images/header.jpg"
+  overlay:
+    enable : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "Members"
+  sliderItem:
+    - image : "images/slider/P9281340.jpeg"
+    - image : "images/slider/P9281338.jpeg"
+    - image : "images/slider/P9281337.jpeg"
+    - image : "images/slider/P9281335.jpeg"
+    - image : "images/slider/P9281333.jpeg"
+    - image : "images/slider/IMG_5614.jpeg"
+    - image : "images/slider/IMG_5590.jpeg"
+    - image : "images/slider/IMG_1606.jpeg"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/logo.png"
+  title : "Mustang Car Club of Colorado"
+  description : "The Mustang Car Club of Colorado promotes the interest of preservation, restoration and recreational enjoyment of the Ford Mustang automobile.<p>
+  * We welcome ALL years of Mustangs *
+  <b>Our Motto:</b> Friendship, Adventure, Style - A Legends's Legacy Continues"
+
+################# Blog ######################
+blog:
+  enable : true
+  title : "Latest <span>Posts</span>"
+  bgImage : "images/blog/blog-bg.jpg"
+  overlay:
+    enable : true
+
+
+################# food Menu ################
+pricing:
+  enable : true
+  title : "Our Easy <span>PRICE</span>"
+  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+  subtitle : "FEATURED ON THE WEEK"
+  pricingItem:
+  - title: "Pancakes n' Such Titas"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+    price : "$ 125.00"
+
+  - title: "Caesar Salad"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+    price : "$ 100.00"
+
+  - title: "Steak with a Garlic and Parsley Risotto"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+    price : "$ 20.00"
+
+  - title: "Meat of Skewers"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+    price : "$ 45.00"
+
+  - title: "Pancakes n' Such"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+    price : "$ 25.00"
+
+################### Subscription ################
+subscription:
+  enable : true
+  bgImage : "images/subscribe-bg.png"
+  title : "Join Us"
+  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  #Mailchimp subscription configaration
+  formAction : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  overlay:
+    enable : true
+
+################ Contact #######################
+contact:
+  enable : true
+  title: "Let's <span> Contact Us </span>"
+  subtitle: "SIGN UP FOR EMAIL ALERTS"
+  formAction : "#" #contact form works with formspree.io

@@ -1,0 +1,9 @@
+[submodule "themes/restaurant"]
+	path = themes/restaurant
+	url = https://github.com/themefisher/restaurant-hugo.git
+[submodule "themes/restaurant-hugo"]
+	path = themes/restaurant-hugo
+	url = https://github.com/themefisher/restaurant-hugo.git
+[submodule "carclub/themes/restaurant-hugo"]
+	path = carclub/themes/restaurant-hugo
+	url = https://github.com/themefisher/restaurant-hugo.git
