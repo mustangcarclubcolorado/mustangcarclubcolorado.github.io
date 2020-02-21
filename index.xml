@@ -20,41 +20,5 @@
       <description>We will meet at Red Truck Beer Company on 1020 E Lincoln Ave in Fort Collins, CO.</description>
     </item>
     
-    <item>
-      <title>Red Pepper Miso Wings</title>
-      <link>https://mustangcarclubcolorado.github.io/red-pepper-miso-wings/</link>
-      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
-      
-      <guid>https://mustangcarclubcolorado.github.io/red-pepper-miso-wings/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>Homestyle Chicken Pot Pie</title>
-      <link>https://mustangcarclubcolorado.github.io/homestyle-chicken-pot-pie/</link>
-      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
-      
-      <guid>https://mustangcarclubcolorado.github.io/homestyle-chicken-pot-pie/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>Skillet Chicken with Potatoes</title>
-      <link>https://mustangcarclubcolorado.github.io/restaurant/</link>
-      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
-      
-      <guid>https://mustangcarclubcolorado.github.io/restaurant/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>Red Pepper Miso Wings</title>
-      <link>https://mustangcarclubcolorado.github.io/my-first-post/</link>
-      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
-      
-      <guid>https://mustangcarclubcolorado.github.io/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
   </channel>
 </rss>
