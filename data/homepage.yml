@@ -16,8 +16,8 @@ gallery:
     - image : "images/slider/P9281335.jpeg"
     - image : "images/slider/P9281333.jpeg"
     - image : "images/slider/IMG_5614.jpeg"
-    - image : "images/slider/IMG_5590.jpeg"
-    - image : "images/slider/IMG_1606.jpeg"
+    - image : "images/slider/IMG_5590.png"
+    - image : "images/slider/IMG_1606.jpg"
 
 ################ About #######################
 about:
@@ -39,46 +39,28 @@ blog:
 
 ################# food Menu ################
 pricing:
-  enable : true
-  title : "Our Easy <span>PRICE</span>"
-  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-  subtitle : "FEATURED ON THE WEEK"
+  enable : True
+  title : "Membership Pricing"
+  description: "Cost of memberhsip"
+  #subtitle : "FEATURED ON THE WEEK"
   pricingItem:
-  - title: "Pancakes n' Such Titas"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 125.00"
-
-  - title: "Caesar Salad"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 100.00"
-
-  - title: "Steak with a Garlic and Parsley Risotto"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+  - title: "Year Long Membership"
+    description: "Cost of membership, includes..."
     price : "$ 20.00"
 
-  - title: "Meat of Skewers"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 45.00"
-
-  - title: "Pancakes n' Such"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 25.00"
 
 ################### Subscription ################
 subscription:
   enable : true
   bgImage : "images/subscribe-bg.png"
-  title : "Join Us"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
-  #Mailchimp subscription configaration
-  formAction : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  title : "Event Calendar"
+  description : "Upcoming events"
   overlay:
     enable : true
 
 ################ Contact #######################
 contact:
-  enable : true
+  enable : false
   title: "Let's <span> Contact Us </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
   formAction : "#" #contact form works with formspree.io

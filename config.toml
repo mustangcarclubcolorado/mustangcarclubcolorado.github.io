@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
+baseURL = "https://mustangcarclubcolorado.github.io/"
 languageCode = "en-us"
 title = "Mustang Car Club of Colorado"
 theme="restaurant-hugo"
@@ -53,12 +53,12 @@ paginate = 4
   weight = 2
 
   [[menu.main]]
-  name = "Blog"
+  name = "Posts"
   URL = "blog"
   weight = 3
 
   [[menu.main]]
-  name = "Price"
+  name = "Membership"
   URL = "price"
   weight = 4
 
@@ -82,7 +82,7 @@ description = "This is meta description"
 # google analitycs ID
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright 2019 - All Rights Reserved. Design and Developed By Themefisher.com"
+copyright = "Copyright 2020 - All Rights Reserved. Mustang Car Club of Colorado"
 
 # Preloader
 [params.preloader]
@@ -115,36 +115,32 @@ content = "mustangccofc@gmail.com"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/P9281340.jpeg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/P9281338.jpeg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-3.jpg"
+image = "images/slider/P9281337.jpeg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-4.jpg"
+image = "images/slider/P9281335.jpeg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/P9281333.jpeg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/IMG_5614.jpeg"
 
 ######################## Social Icon
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
+link = "https://mustangcarclubcolorado.github.io/"
 
-[[params.footer.socialLink]]
-icon = "twitter"
-link = "https://fb.com/themefisher"
+#[[params.footer.socialLink]]
+#icon = "twitter"
+#link = "https://fb.com/themefisher"
 
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "instagram"
-link = "https://fb.com/themefisher"
+#[[params.footer.socialLink]]
+#icon = "instagram"
+#link = "https://fb.com/themefisher"
