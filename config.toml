@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://mustangcarclubcolorado.github.io/"
+baseURL = "https://mustangccofc.com"
 languageCode = "en-us"
 title = "Mustang Car Club of Colorado"
 theme="restaurant-hugo"
