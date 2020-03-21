@@ -22,7 +22,7 @@ gallery:
 ################ About #######################
 about:
   enable : true
-  image : "images/logo.png"
+  image : "images/MCCC_logo_black_mtns.png"
   title : "Mustang Car Club of Colorado"
   description : "The Mustang Car Club of Colorado promotes the interest of preservation, restoration and recreational enjoyment of the Ford Mustang automobile.<p>
   * We welcome ALL years of Mustangs *
@@ -45,7 +45,10 @@ pricing:
   #subtitle : "FEATURED ON THE WEEK"
   pricingItem:
   - title: "Year Long Membership"
-    description: "Cost of membership, includes..."
+    description: "Cost of family membership, includes: car decal and t-shirt"
+    price : "$ 25.00"
+  - title: "Year Long Membership Renewal"
+    description: "Cost of family membership"
     price : "$ 20.00"
 
 
@@ -60,7 +63,7 @@ subscription:
 
 ################ Contact #######################
 contact:
-  enable : false
+  enable : true
   title: "Let's <span> Contact Us </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
-  formAction : "#" #contact form works with formspree.io
+  formAction : "https://formspree.io/mnqzjrbn"

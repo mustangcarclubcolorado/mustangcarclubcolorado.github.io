@@ -7,3 +7,7 @@
 [submodule "carclub/themes/restaurant-hugo"]
 	path = carclub/themes/restaurant-hugo
 	url = https://github.com/themefisher/restaurant-hugo.git
+[submodule "public"]
+	path = public
+	url = https://github.com/mustangcarclubcolorado/mustangcarclubcolorado.github.io.git
+	branch = master
