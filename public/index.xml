@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustang Car Club of Colorado</title>
+    <link>https://mustangccofc.com/</link>
+    <description>Recent content on Mustang Car Club of Colorado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate>
+    
+	<atom:link href="https://mustangccofc.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MCCC Monthly Meeting 02-20-2020</title>
+      <link>https://mustangccofc.com/mccc-monthly-meeting-02-20-2020/</link>
+      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
+      
+      <guid>https://mustangccofc.com/mccc-monthly-meeting-02-20-2020/</guid>
+      <description>We will meet at Red Truck Beer Company on 1020 E Lincoln Ave in Fort Collins, CO.</description>
+    </item>
+    
+  </channel>
+</rss>
