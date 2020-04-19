@@ -1,15 +1,19 @@
-{{ if .Site.Data.homepage.subscription.enable }}
-{{ with .Site.Data.homepage.subscription }}
-<section id="subscribe" {{ if .overlay.enable }} class="overlay" {{ end }} style="background-image: url('{{ .bgImage | absURL }}');">
+{{ if .Site.Data.homepage.events.enable }}
+{{ with .Site.Data.homepage.events }}
+<section id="events" {{ if .overlay.enable }} class="overlay" {{ end }} style="background-image: url('{{ .bgImage | absURL }}');">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
                     <h1 class=" heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">{{ .title | markdownify }}</h1>
                     <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">{{ .description | markdownify }}</p>
-                    <div class="subscription-form">
-                    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23D50000&amp;ctz=America%2FDenver&amp;src=bmljay5sYW5nQGdtYWlsLmNvbQ&amp;src=mustangccofc%40gmail.com&amp;color=%237986CB&amp;color=%23F4511E&amp;color=%2333B679&amp;color=%23B39DDB&amp;color=%23009688&amp;showTitle=0&amp;showNav=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+                    <div class="container">
+                        <div class="span12">
+                            <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23D50000&amp;ctz=America%2FDenver&amp;src=mustangccofc%40gmail.com&amp;color=%237986CB&amp;color=%23F4511E&amp;color=%2333B679&amp;color=%23B39DDB&amp;color=%23009688&amp;showTitle=0&amp;showNav=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+                        </div>
                     </div>
+                    
                 </div>
             </div><!-- .col-md-12 close -->
         </div><!-- .row close -->

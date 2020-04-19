@@ -52,8 +52,8 @@ pricing:
     price : "$ 20.00"
 
 
-################### Subscription ################
-subscription:
+################### Events ################
+events:
   enable : true
   bgImage : "images/subscribe-bg.png"
   title : "Event Calendar"
