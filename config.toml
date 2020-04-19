@@ -64,7 +64,7 @@ paginate = 4
 
   [[menu.main]]
   name = "Events"
-  URL = "subscribe"
+  URL = "events"
   weight = 5
 
   [[menu.main]]
